@@ -1,0 +1,13 @@
+.App {
+  /*text-align: center;*/
+}
+
+.categoriesList {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.categoriesTitle {
+  cursor: pointer;
+}
